@@ -1,0 +1,4 @@
+for (initialize expression; test expression; update expresion)
+{
+    //body of for loop
+}
